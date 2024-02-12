@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import InputSearch from "../Search/InputSearch";
+import InputSearch from "./InputSearch";
 
 const Navbar = () => {
   return (
